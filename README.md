@@ -1,2 +1,1 @@
-# captcha-resolver
- 
+# Captcha-Solver
